@@ -1,0 +1,14 @@
+/* Temel sıfırlama ve font ayarı */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f8f9fa; /* hafif gri arka plan */
+  color: #212529;
+}
+
+/* Kutu hesaplamasını düzelt */
+* {
+  box-sizing: border-box;
+}
