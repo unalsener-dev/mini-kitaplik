@@ -6,7 +6,7 @@ Bu proje, React kullanılarak geliştirilmiş küçük bir web kitaplığı uygu
 
 Uygulamanın canlı demosuna aşağıdaki linkten ulaşabilirsiniz:
 
-[Buraya Tıklayarak Vercel Uygulamasına Gidin](https://mini-kitaplik.vercel.app/) 
+[Buraya Tıklayarak Canlı Demoya Gidin](https://mini-kitaplik.vercel.app/) 
 
 
 ## Kullanılan Teknolojiler
