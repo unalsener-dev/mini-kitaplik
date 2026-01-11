@@ -16,3 +16,10 @@ Uygulamanın canlı demosuna aşağıdaki linkten ulaşabilirsiniz:
 * JavaScript
 * CSS
 * LocalStorage
+
+---
+
+## 📬 İletişim
+- 📧 E-posta: unalsener0488@gmail.com  
+- 💻 [GitHub](https://github.com/unalsener-dev)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/%C3%BCnal-%C5%9Fener-7b12712ab/)
